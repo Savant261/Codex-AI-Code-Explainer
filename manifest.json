@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Codex - AI Code Explainer",
+  "version": "1.0",
+  "description": "Explains code snippets using AI.",
+  "permissions": ["sidePanel"],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "action": {
+    "default_title": "Open Codex"
+  }
+}
