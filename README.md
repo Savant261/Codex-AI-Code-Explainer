@@ -4,4 +4,4 @@
 
 ## 🚀 Features
 
-* **Instant Explanations:** 
+* **Instant Explanations:** simply highlight code on StackOverflow, GitHub, or documentation sites to get an analysis.
