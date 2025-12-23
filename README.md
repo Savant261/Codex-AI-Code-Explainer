@@ -7,4 +7,4 @@
 * **Instant Explanations:** simply highlight code on StackOverflow, GitHub, or documentation sites to get an analysis.
 * **Side Panel Integration:** Uses the modern Chrome Side Panel API for a non-intrusive workflow.
 * **AI-Powered:** Connects with advanced LLMs (Gemini/OpenAI) to interpret complex logic in Python, JavaScript, C++, and more.
-* **Markdown Rendering:** Explanations are formatted beautifully with syntax highlighting and clear headings,
+* **Markdown Rendering:** Explanations are formatted beautifully with syntax highlighting and clear headings.
